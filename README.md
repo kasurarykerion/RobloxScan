@@ -23,7 +23,7 @@ A modern security scanner for Roblox Lua scripts that detects common vulnerabili
 1. Make sure you have Python 3.7+ installed
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/RobloxScan.git
+  git clone https://github.com/kasurarykerion/RobloxScan.git
    cd RobloxScan
    ```
 3. Install dependencies:
